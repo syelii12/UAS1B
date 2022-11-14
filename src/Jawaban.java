@@ -52,17 +52,17 @@ public class Jawaban {
         switch (angkaRandom) {
             case 1:
                 CheckIndexArray(TI, Maba);
-                System.out.println("Anda Berhasil jadi Maba TI");
+                System.out.println("Anda mendapatkan NIK + TI22");
                 PenerimaMaba();
                 break;
             case 2:
                 CheckIndexArray(DKV, Maba);
-                System.out.println("Anda Berhasil jadi Maba DKV");
+                System.out.println("Anda mendapatkan NIK + DKV22");
                 PenerimaMaba();
                 break;
             case 3:
                 CheckIndexArray(TKOM, Maba);
-                System.out.println("Anda Berhasil jadi Maba TKOM");
+                System.out.println("Anda mendapatkan NIK + TKOM22");
                 PenerimaMaba();
                 break;
         }
